@@ -20,7 +20,7 @@ enable react/tsx support by adding this to `tsconfig.json`:
 {
 	"compilerOptions": {
 		"jsx": "react",
-    	"jsxFactory": "React.createElement",
+		"jsxFactory": "React.createElement",
 		// ...
 	},
 	// ...
