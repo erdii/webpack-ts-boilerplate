@@ -1,6 +1,9 @@
 # webpack + typescript boilerplate
 
+work in progress
+
 ### Usage
+TODO
 
 ### Features
 * css extraction
