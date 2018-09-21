@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "es6",
+    "module": "esnext",
+    "declaration": false,
+    "strict": true,
+    "removeComments": true,
+    "lib": [
+      "es6",
+      "dom"
+    ]
+  },
+  "include": [
+    "src"
+  ]
+}
